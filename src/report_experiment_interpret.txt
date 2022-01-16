@@ -1,0 +1,26 @@
+Now procesesing 25....elements please stand-by
+Time to run for 25 entries is 0....load factor is....0.25 
+
+Now procesesing 50....elements please stand-by
+Time to run for 50 entries is 1....load factor is....0.5
+
+Now procesesing 75....elements please stand-by
+Time to run for 75 entries is 2....load factor is....0.73
+
+Now procesesing 100....elements please stand-by
+Time to run for 100 entries is 1....load factor is....0.97
+
+Now procesesing 125....elements please stand-by
+Time to run for 125 entries is 3....load factor is....1.22
+
+Now procesesing 150....elements please stand-by
+Time to run for 150 entries is 1....load factor is....1.47
+
+When there are less elements than the capacity , the put() takes much less time because
+there arent many collisions , and even when they do happen the size of buckets rarely gets past 2 so its still fast
+this applies until the amount of elements are equal to the capacity of the array, here we see the that the load factor is closer to 1 (0.97)
+this is becase the whole array is likely filled with little collisions as well, this is the limit of the performnce of the hash table.
+
+Afterwards the load factor is above 1 which is bad because now there are certainly big buckets in these cases and the  run time is bigger
+because it has a time complexity of O(N) because in the worst case when the hash is full after the 100 elements, the alorithm now needs
+to look through each bucket to find where it would fit. This is why a hash table with more elements than its capacity takes more time

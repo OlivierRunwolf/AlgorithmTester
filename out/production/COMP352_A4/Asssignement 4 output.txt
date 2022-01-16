@@ -1,0 +1,1299 @@
+C:\Users\olivi\.jdks\openjdk-15.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.1\lib\idea_rt.jar=56670:C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\olivi\IdeaProjects\COMP352_A4\out\production\COMP352_A4 Main
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 1, Collisions encontered: 0 Number of items in bucket storing 0 : 1
+Time take for put(k,v): 13
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 2, Collisions encontered: 0 Number of items in bucket storing 28 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 3, Collisions encontered: 0 Number of items in bucket storing 77 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 4, Collisions encontered: 0 Number of items in bucket storing 26 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 5, Collisions encontered: 0 Number of items in bucket storing 47 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 6, Collisions encontered: 0 Number of items in bucket storing 34 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 7, Collisions encontered: 0 Number of items in bucket storing 83 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 8, Collisions encontered: 0 Number of items in bucket storing 92 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 9, Collisions encontered: 0 Number of items in bucket storing 55 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 10, Collisions encontered: 0 Number of items in bucket storing 27 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 11, Collisions encontered: 0 Number of items in bucket storing 84 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 12, Collisions encontered: 0 Number of items in bucket storing 54 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 13, Collisions encontered: 0 Number of items in bucket storing 53 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 14, Collisions encontered: 0 Number of items in bucket storing 91 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 15, Collisions encontered: 0 Number of items in bucket storing 59 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 16, Collisions encontered: 0 Number of items in bucket storing 88 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 17, Collisions encontered: 0 Number of items in bucket storing 25 : 1
+Time take for put(k,v): 1
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 18, Collisions encontered: 0 Number of items in bucket storing 24 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 19, Collisions encontered: 0 Number of items in bucket storing 3 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 20, Collisions encontered: 0 Number of items in bucket storing 52 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 21, Collisions encontered: 0 Number of items in bucket storing 36 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 22, Collisions encontered: 0 Number of items in bucket storing 49 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 23, Collisions encontered: 0 Number of items in bucket storing 91 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 24, Collisions encontered: 0 Number of items in bucket storing 93 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 25, Collisions encontered: 0 Number of items in bucket storing 6 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 26, Collisions encontered: 0 Number of items in bucket storing 47 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 27, Collisions encontered: 0 Number of items in bucket storing 58 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 28, Collisions encontered: 0 Number of items in bucket storing 20 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 29, Collisions encontered: 0 Number of items in bucket storing 16 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 30, Collisions encontered: 0 Number of items in bucket storing 41 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 31, Collisions encontered: 0 Number of items in bucket storing 21 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 32, Collisions encontered: 0 Number of items in bucket storing 8 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 33, Collisions encontered: 0 Number of items in bucket storing 6 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 34, Collisions encontered: 0 Number of items in bucket storing 38 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 35, Collisions encontered: 0 Number of items in bucket storing 28 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 36, Collisions encontered: 0 Number of items in bucket storing 81 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 37, Collisions encontered: 0 Number of items in bucket storing 40 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 38, Collisions encontered: 0 Number of items in bucket storing 66 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 39, Collisions encontered: 0 Number of items in bucket storing 56 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 40, Collisions encontered: 0 Number of items in bucket storing 46 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 41, Collisions encontered: 0 Number of items in bucket storing 66 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 42, Collisions encontered: 0 Number of items in bucket storing 59 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 43, Collisions encontered: 0 Number of items in bucket storing 74 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 44, Collisions encontered: 0 Number of items in bucket storing 89 : 1
+Time take for put(k,v): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for remove(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Time take for get(k): 0
+Bucket[1] -> |{key:70, value:81}
+
+Bucket[12] -> |{key:81, value:21}
+
+Bucket[19] -> |{key:88, value:74}
+
+Bucket[20] -> |{key:89, value:47}
+
+Bucket[22] -> |{key:91, value:16}
+
+Bucket[23] -> |{key:92, value:89}
+
+Bucket[25] -> |{key:94, value:40}
+
+Bucket[28] -> |{key:97, value:58}
+
+Bucket[36] -> |{key:5, value:59}
+
+Bucket[39] -> |{key:8, value:41}
+
+Bucket[48] -> |{key:17, value:38}
+
+Bucket[54] -> |{key:23, value:8}
+
+Bucket[67] -> |{key:36, value:6}
+
+Bucket[68] -> |{key:37, value:46}
+
+Bucket[70] -> |{key:39, value:6}
+
+Bucket[73] -> |{key:42, value:66}
+
+Bucket[80] -> |{key:49, value:20}
+
+Bucket[82] -> |{key:51, value:56}
+
+Bucket[87] -> |{key:56, value:66}
+
+Bucket[90] -> |{key:59, value:28}
+
+Time take for remove(k): 0
+Now procesesing 25....elements please stand-by
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 1, Collisions encontered: 0 Number of items in bucket storing 1925 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 2, Collisions encontered: 0 Number of items in bucket storing 244 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 3, Collisions encontered: 0 Number of items in bucket storing 1773 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 4, Collisions encontered: 0 Number of items in bucket storing 1757 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 5, Collisions encontered: 0 Number of items in bucket storing 900 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 6, Collisions encontered: 0 Number of items in bucket storing 40 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 7, Collisions encontered: 0 Number of items in bucket storing 2227 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 8, Collisions encontered: 0 Number of items in bucket storing 2069 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 9, Collisions encontered: 0 Number of items in bucket storing 1255 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 10, Collisions encontered: 0 Number of items in bucket storing 2499 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 11, Collisions encontered: 0 Number of items in bucket storing 456 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 12, Collisions encontered: 0 Number of items in bucket storing 669 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 13, Collisions encontered: 0 Number of items in bucket storing 2896 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 14, Collisions encontered: 1 Number of items in bucket storing 185 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 15, Collisions encontered: 0 Number of items in bucket storing 2873 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 16, Collisions encontered: 0 Number of items in bucket storing 2245 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 17, Collisions encontered: 0 Number of items in bucket storing 2955 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 18, Collisions encontered: 1 Number of items in bucket storing 2302 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 19, Collisions encontered: 1 Number of items in bucket storing 1514 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 20, Collisions encontered: 0 Number of items in bucket storing 1422 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 21, Collisions encontered: 0 Number of items in bucket storing 1336 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 22, Collisions encontered: 1 Number of items in bucket storing 1761 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 23, Collisions encontered: 0 Number of items in bucket storing 1396 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 24, Collisions encontered: 0 Number of items in bucket storing 588 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 25, Collisions encontered: 2 Number of items in bucket storing 1206 : 3
+Time take for put(k,v): 0
+Time to run for 25 entries is 0....load factor is....0.25
+Now procesesing 50....elements please stand-by
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 1, Collisions encontered: 0 Number of items in bucket storing 1925 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 2, Collisions encontered: 0 Number of items in bucket storing 244 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 3, Collisions encontered: 0 Number of items in bucket storing 1773 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 4, Collisions encontered: 0 Number of items in bucket storing 1757 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 5, Collisions encontered: 0 Number of items in bucket storing 900 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 6, Collisions encontered: 0 Number of items in bucket storing 40 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 7, Collisions encontered: 0 Number of items in bucket storing 2227 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 8, Collisions encontered: 0 Number of items in bucket storing 2069 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 9, Collisions encontered: 0 Number of items in bucket storing 1255 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 10, Collisions encontered: 0 Number of items in bucket storing 2499 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 11, Collisions encontered: 0 Number of items in bucket storing 456 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 12, Collisions encontered: 0 Number of items in bucket storing 669 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 13, Collisions encontered: 0 Number of items in bucket storing 2896 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 14, Collisions encontered: 1 Number of items in bucket storing 185 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 15, Collisions encontered: 0 Number of items in bucket storing 2873 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 16, Collisions encontered: 0 Number of items in bucket storing 2245 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 17, Collisions encontered: 0 Number of items in bucket storing 2955 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 18, Collisions encontered: 1 Number of items in bucket storing 2302 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 19, Collisions encontered: 1 Number of items in bucket storing 1514 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 20, Collisions encontered: 0 Number of items in bucket storing 1422 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 21, Collisions encontered: 0 Number of items in bucket storing 1336 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 22, Collisions encontered: 1 Number of items in bucket storing 1761 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 23, Collisions encontered: 0 Number of items in bucket storing 1396 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 24, Collisions encontered: 0 Number of items in bucket storing 588 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 25, Collisions encontered: 2 Number of items in bucket storing 1206 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 26, Collisions encontered: 0 Number of items in bucket storing 187 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 27, Collisions encontered: 1 Number of items in bucket storing 69 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 28, Collisions encontered: 0 Number of items in bucket storing 2934 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 29, Collisions encontered: 0 Number of items in bucket storing 2968 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 30, Collisions encontered: 0 Number of items in bucket storing 423 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 31, Collisions encontered: 0 Number of items in bucket storing 901 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 32, Collisions encontered: 0 Number of items in bucket storing 2498 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 33, Collisions encontered: 1 Number of items in bucket storing 145 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 34, Collisions encontered: 0 Number of items in bucket storing 2993 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 35, Collisions encontered: 0 Number of items in bucket storing 373 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 36, Collisions encontered: 1 Number of items in bucket storing 843 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 37, Collisions encontered: 0 Number of items in bucket storing 1113 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 38, Collisions encontered: 0 Number of items in bucket storing 2401 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 39, Collisions encontered: 0 Number of items in bucket storing 1903 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 40, Collisions encontered: 2 Number of items in bucket storing 821 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 41, Collisions encontered: 0 Number of items in bucket storing 871 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 42, Collisions encontered: 0 Number of items in bucket storing 1639 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 43, Collisions encontered: 0 Number of items in bucket storing 2971 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 44, Collisions encontered: 1 Number of items in bucket storing 437 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 45, Collisions encontered: 0 Number of items in bucket storing 966 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 46, Collisions encontered: 0 Number of items in bucket storing 1854 : 1
+Time take for put(k,v): 1
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 47, Collisions encontered: 0 Number of items in bucket storing 1630 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 48, Collisions encontered: 1 Number of items in bucket storing 299 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 49, Collisions encontered: 1 Number of items in bucket storing 1730 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 50, Collisions encontered: 0 Number of items in bucket storing 186 : 1
+Time take for put(k,v): 0
+Time to run for 50 entries is 1....load factor is....0.5
+Now procesesing 75....elements please stand-by
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 1, Collisions encontered: 0 Number of items in bucket storing 1925 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 2, Collisions encontered: 0 Number of items in bucket storing 244 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 3, Collisions encontered: 0 Number of items in bucket storing 1773 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 4, Collisions encontered: 0 Number of items in bucket storing 1757 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 5, Collisions encontered: 0 Number of items in bucket storing 900 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 6, Collisions encontered: 0 Number of items in bucket storing 40 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 7, Collisions encontered: 0 Number of items in bucket storing 2227 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 8, Collisions encontered: 0 Number of items in bucket storing 2069 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 9, Collisions encontered: 0 Number of items in bucket storing 1255 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 10, Collisions encontered: 0 Number of items in bucket storing 2499 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 11, Collisions encontered: 0 Number of items in bucket storing 456 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 12, Collisions encontered: 0 Number of items in bucket storing 669 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 13, Collisions encontered: 0 Number of items in bucket storing 2896 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 14, Collisions encontered: 1 Number of items in bucket storing 185 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 15, Collisions encontered: 0 Number of items in bucket storing 2873 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 16, Collisions encontered: 0 Number of items in bucket storing 2245 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 17, Collisions encontered: 0 Number of items in bucket storing 2955 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 18, Collisions encontered: 1 Number of items in bucket storing 2302 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 19, Collisions encontered: 1 Number of items in bucket storing 1514 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 20, Collisions encontered: 0 Number of items in bucket storing 1422 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 21, Collisions encontered: 0 Number of items in bucket storing 1336 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 22, Collisions encontered: 1 Number of items in bucket storing 1761 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 23, Collisions encontered: 0 Number of items in bucket storing 1396 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 24, Collisions encontered: 0 Number of items in bucket storing 588 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 25, Collisions encontered: 2 Number of items in bucket storing 1206 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 26, Collisions encontered: 0 Number of items in bucket storing 187 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 27, Collisions encontered: 1 Number of items in bucket storing 69 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 28, Collisions encontered: 0 Number of items in bucket storing 2934 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 29, Collisions encontered: 0 Number of items in bucket storing 2968 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 30, Collisions encontered: 0 Number of items in bucket storing 423 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 31, Collisions encontered: 0 Number of items in bucket storing 901 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 32, Collisions encontered: 0 Number of items in bucket storing 2498 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 33, Collisions encontered: 1 Number of items in bucket storing 145 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 34, Collisions encontered: 0 Number of items in bucket storing 2993 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 35, Collisions encontered: 0 Number of items in bucket storing 373 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 36, Collisions encontered: 1 Number of items in bucket storing 843 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 37, Collisions encontered: 0 Number of items in bucket storing 1113 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 38, Collisions encontered: 0 Number of items in bucket storing 2401 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 39, Collisions encontered: 0 Number of items in bucket storing 1903 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 40, Collisions encontered: 2 Number of items in bucket storing 821 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 41, Collisions encontered: 0 Number of items in bucket storing 871 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 42, Collisions encontered: 0 Number of items in bucket storing 1639 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 43, Collisions encontered: 0 Number of items in bucket storing 2971 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 44, Collisions encontered: 1 Number of items in bucket storing 437 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 45, Collisions encontered: 0 Number of items in bucket storing 966 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 46, Collisions encontered: 0 Number of items in bucket storing 1854 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 47, Collisions encontered: 0 Number of items in bucket storing 1630 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 48, Collisions encontered: 1 Number of items in bucket storing 299 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 49, Collisions encontered: 1 Number of items in bucket storing 1730 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 50, Collisions encontered: 0 Number of items in bucket storing 186 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 51, Collisions encontered: 0 Number of items in bucket storing 650 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 52, Collisions encontered: 0 Number of items in bucket storing 1905 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 53, Collisions encontered: 0 Number of items in bucket storing 2930 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 54, Collisions encontered: 0 Number of items in bucket storing 2572 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 55, Collisions encontered: 0 Number of items in bucket storing 810 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 56, Collisions encontered: 0 Number of items in bucket storing 2722 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 57, Collisions encontered: 0 Number of items in bucket storing 2821 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 58, Collisions encontered: 0 Number of items in bucket storing 1090 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 59, Collisions encontered: 0 Number of items in bucket storing 2948 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 60, Collisions encontered: 0 Number of items in bucket storing 614 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 61, Collisions encontered: 0 Number of items in bucket storing 2215 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 62, Collisions encontered: 1 Number of items in bucket storing 1337 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 63, Collisions encontered: 0 Number of items in bucket storing 1303 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 64, Collisions encontered: 0 Number of items in bucket storing 1146 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 65, Collisions encontered: 0 Number of items in bucket storing 962 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 66, Collisions encontered: 0 Number of items in bucket storing 1805 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 67, Collisions encontered: 0 Number of items in bucket storing 788 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 68, Collisions encontered: 0 Number of items in bucket storing 357 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 69, Collisions encontered: 1 Number of items in bucket storing 1759 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 70, Collisions encontered: 1 Number of items in bucket storing 2329 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 71, Collisions encontered: 0 Number of items in bucket storing 2597 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 72, Collisions encontered: 0 Number of items in bucket storing 2617 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 73, Collisions encontered: 1 Number of items in bucket storing 973 : 2
+Time take for put(k,v): 0
+Time to run for 75 entries is 2....load factor is....0.73
+Now procesesing 100....elements please stand-by
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 1, Collisions encontered: 0 Number of items in bucket storing 1925 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 2, Collisions encontered: 0 Number of items in bucket storing 244 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 3, Collisions encontered: 0 Number of items in bucket storing 1773 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 4, Collisions encontered: 0 Number of items in bucket storing 1757 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 5, Collisions encontered: 0 Number of items in bucket storing 900 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 6, Collisions encontered: 0 Number of items in bucket storing 40 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 7, Collisions encontered: 0 Number of items in bucket storing 2227 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 8, Collisions encontered: 0 Number of items in bucket storing 2069 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 9, Collisions encontered: 0 Number of items in bucket storing 1255 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 10, Collisions encontered: 0 Number of items in bucket storing 2499 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 11, Collisions encontered: 0 Number of items in bucket storing 456 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 12, Collisions encontered: 0 Number of items in bucket storing 669 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 13, Collisions encontered: 0 Number of items in bucket storing 2896 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 14, Collisions encontered: 1 Number of items in bucket storing 185 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 15, Collisions encontered: 0 Number of items in bucket storing 2873 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 16, Collisions encontered: 0 Number of items in bucket storing 2245 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 17, Collisions encontered: 0 Number of items in bucket storing 2955 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 18, Collisions encontered: 1 Number of items in bucket storing 2302 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 19, Collisions encontered: 1 Number of items in bucket storing 1514 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 20, Collisions encontered: 0 Number of items in bucket storing 1422 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 21, Collisions encontered: 0 Number of items in bucket storing 1336 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 22, Collisions encontered: 1 Number of items in bucket storing 1761 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 23, Collisions encontered: 0 Number of items in bucket storing 1396 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 24, Collisions encontered: 0 Number of items in bucket storing 588 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 25, Collisions encontered: 2 Number of items in bucket storing 1206 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 26, Collisions encontered: 0 Number of items in bucket storing 187 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 27, Collisions encontered: 1 Number of items in bucket storing 69 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 28, Collisions encontered: 0 Number of items in bucket storing 2934 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 29, Collisions encontered: 0 Number of items in bucket storing 2968 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 30, Collisions encontered: 0 Number of items in bucket storing 423 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 31, Collisions encontered: 0 Number of items in bucket storing 901 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 32, Collisions encontered: 0 Number of items in bucket storing 2498 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 33, Collisions encontered: 1 Number of items in bucket storing 145 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 34, Collisions encontered: 0 Number of items in bucket storing 2993 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 35, Collisions encontered: 0 Number of items in bucket storing 373 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 36, Collisions encontered: 1 Number of items in bucket storing 843 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 37, Collisions encontered: 0 Number of items in bucket storing 1113 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 38, Collisions encontered: 0 Number of items in bucket storing 2401 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 39, Collisions encontered: 0 Number of items in bucket storing 1903 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 40, Collisions encontered: 2 Number of items in bucket storing 821 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 41, Collisions encontered: 0 Number of items in bucket storing 871 : 1
+Time take for put(k,v): 1
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 42, Collisions encontered: 0 Number of items in bucket storing 1639 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 43, Collisions encontered: 0 Number of items in bucket storing 2971 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 44, Collisions encontered: 1 Number of items in bucket storing 437 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 45, Collisions encontered: 0 Number of items in bucket storing 966 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 46, Collisions encontered: 0 Number of items in bucket storing 1854 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 47, Collisions encontered: 0 Number of items in bucket storing 1630 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 48, Collisions encontered: 1 Number of items in bucket storing 299 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 49, Collisions encontered: 1 Number of items in bucket storing 1730 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 50, Collisions encontered: 0 Number of items in bucket storing 186 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 51, Collisions encontered: 0 Number of items in bucket storing 650 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 52, Collisions encontered: 0 Number of items in bucket storing 1905 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 53, Collisions encontered: 0 Number of items in bucket storing 2930 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 54, Collisions encontered: 0 Number of items in bucket storing 2572 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 55, Collisions encontered: 0 Number of items in bucket storing 810 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 56, Collisions encontered: 0 Number of items in bucket storing 2722 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 57, Collisions encontered: 0 Number of items in bucket storing 2821 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 58, Collisions encontered: 0 Number of items in bucket storing 1090 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 59, Collisions encontered: 0 Number of items in bucket storing 2948 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 60, Collisions encontered: 0 Number of items in bucket storing 614 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 61, Collisions encontered: 0 Number of items in bucket storing 2215 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 62, Collisions encontered: 1 Number of items in bucket storing 1337 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 63, Collisions encontered: 0 Number of items in bucket storing 1303 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 64, Collisions encontered: 0 Number of items in bucket storing 1146 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 65, Collisions encontered: 0 Number of items in bucket storing 962 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 66, Collisions encontered: 0 Number of items in bucket storing 1805 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 67, Collisions encontered: 0 Number of items in bucket storing 788 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 68, Collisions encontered: 0 Number of items in bucket storing 357 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 69, Collisions encontered: 1 Number of items in bucket storing 1759 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 70, Collisions encontered: 1 Number of items in bucket storing 2329 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 71, Collisions encontered: 0 Number of items in bucket storing 2597 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 72, Collisions encontered: 0 Number of items in bucket storing 2617 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 73, Collisions encontered: 1 Number of items in bucket storing 973 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 74, Collisions encontered: 0 Number of items in bucket storing 45 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 75, Collisions encontered: 0 Number of items in bucket storing 1182 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 76, Collisions encontered: 1 Number of items in bucket storing 2045 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 77, Collisions encontered: 1 Number of items in bucket storing 957 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 78, Collisions encontered: 1 Number of items in bucket storing 453 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 79, Collisions encontered: 2 Number of items in bucket storing 2574 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 80, Collisions encontered: 1 Number of items in bucket storing 2333 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 81, Collisions encontered: 1 Number of items in bucket storing 2369 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 82, Collisions encontered: 1 Number of items in bucket storing 1676 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 83, Collisions encontered: 0 Number of items in bucket storing 2333 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 84, Collisions encontered: 1 Number of items in bucket storing 641 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 85, Collisions encontered: 2 Number of items in bucket storing 2620 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 86, Collisions encontered: 1 Number of items in bucket storing 349 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 87, Collisions encontered: 0 Number of items in bucket storing 226 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 88, Collisions encontered: 2 Number of items in bucket storing 2512 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 89, Collisions encontered: 1 Number of items in bucket storing 2418 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 90, Collisions encontered: 0 Number of items in bucket storing 2526 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 91, Collisions encontered: 1 Number of items in bucket storing 1967 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 92, Collisions encontered: 2 Number of items in bucket storing 1774 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 93, Collisions encontered: 3 Number of items in bucket storing 1684 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 94, Collisions encontered: 0 Number of items in bucket storing 2863 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 95, Collisions encontered: 1 Number of items in bucket storing 506 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 96, Collisions encontered: 2 Number of items in bucket storing 1108 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 97, Collisions encontered: 2 Number of items in bucket storing 2818 : 3
+Time take for put(k,v): 0
+Time to run for 100 entries is 1....load factor is....0.97
+Now procesesing 125....elements please stand-by
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 1, Collisions encontered: 0 Number of items in bucket storing 1925 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 2, Collisions encontered: 0 Number of items in bucket storing 244 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 3, Collisions encontered: 0 Number of items in bucket storing 1773 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 4, Collisions encontered: 0 Number of items in bucket storing 1757 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 5, Collisions encontered: 0 Number of items in bucket storing 900 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 6, Collisions encontered: 0 Number of items in bucket storing 40 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 7, Collisions encontered: 0 Number of items in bucket storing 2227 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 8, Collisions encontered: 0 Number of items in bucket storing 2069 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 9, Collisions encontered: 0 Number of items in bucket storing 1255 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 10, Collisions encontered: 0 Number of items in bucket storing 2499 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 11, Collisions encontered: 0 Number of items in bucket storing 456 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 12, Collisions encontered: 0 Number of items in bucket storing 669 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 13, Collisions encontered: 0 Number of items in bucket storing 2896 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 14, Collisions encontered: 1 Number of items in bucket storing 185 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 15, Collisions encontered: 0 Number of items in bucket storing 2873 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 16, Collisions encontered: 0 Number of items in bucket storing 2245 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 17, Collisions encontered: 0 Number of items in bucket storing 2955 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 18, Collisions encontered: 1 Number of items in bucket storing 2302 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 19, Collisions encontered: 1 Number of items in bucket storing 1514 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 20, Collisions encontered: 0 Number of items in bucket storing 1422 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 21, Collisions encontered: 0 Number of items in bucket storing 1336 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 22, Collisions encontered: 1 Number of items in bucket storing 1761 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 23, Collisions encontered: 0 Number of items in bucket storing 1396 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 24, Collisions encontered: 0 Number of items in bucket storing 588 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 25, Collisions encontered: 2 Number of items in bucket storing 1206 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 26, Collisions encontered: 0 Number of items in bucket storing 187 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 27, Collisions encontered: 1 Number of items in bucket storing 69 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 28, Collisions encontered: 0 Number of items in bucket storing 2934 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 29, Collisions encontered: 0 Number of items in bucket storing 2968 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 30, Collisions encontered: 0 Number of items in bucket storing 423 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 31, Collisions encontered: 0 Number of items in bucket storing 901 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 32, Collisions encontered: 0 Number of items in bucket storing 2498 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 33, Collisions encontered: 1 Number of items in bucket storing 145 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 34, Collisions encontered: 0 Number of items in bucket storing 2993 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 35, Collisions encontered: 0 Number of items in bucket storing 373 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 36, Collisions encontered: 1 Number of items in bucket storing 843 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 37, Collisions encontered: 0 Number of items in bucket storing 1113 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 38, Collisions encontered: 0 Number of items in bucket storing 2401 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 39, Collisions encontered: 0 Number of items in bucket storing 1903 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 40, Collisions encontered: 2 Number of items in bucket storing 821 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 41, Collisions encontered: 0 Number of items in bucket storing 871 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 42, Collisions encontered: 0 Number of items in bucket storing 1639 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 43, Collisions encontered: 0 Number of items in bucket storing 2971 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 44, Collisions encontered: 1 Number of items in bucket storing 437 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 45, Collisions encontered: 0 Number of items in bucket storing 966 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 46, Collisions encontered: 0 Number of items in bucket storing 1854 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 47, Collisions encontered: 0 Number of items in bucket storing 1630 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 48, Collisions encontered: 1 Number of items in bucket storing 299 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 49, Collisions encontered: 1 Number of items in bucket storing 1730 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 50, Collisions encontered: 0 Number of items in bucket storing 186 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 51, Collisions encontered: 0 Number of items in bucket storing 650 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 52, Collisions encontered: 0 Number of items in bucket storing 1905 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 53, Collisions encontered: 0 Number of items in bucket storing 2930 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 54, Collisions encontered: 0 Number of items in bucket storing 2572 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 55, Collisions encontered: 0 Number of items in bucket storing 810 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 56, Collisions encontered: 0 Number of items in bucket storing 2722 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 57, Collisions encontered: 0 Number of items in bucket storing 2821 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 58, Collisions encontered: 0 Number of items in bucket storing 1090 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 59, Collisions encontered: 0 Number of items in bucket storing 2948 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 60, Collisions encontered: 0 Number of items in bucket storing 614 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 61, Collisions encontered: 0 Number of items in bucket storing 2215 : 1
+Time take for put(k,v): 1
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 62, Collisions encontered: 1 Number of items in bucket storing 1337 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 63, Collisions encontered: 0 Number of items in bucket storing 1303 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 64, Collisions encontered: 0 Number of items in bucket storing 1146 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 65, Collisions encontered: 0 Number of items in bucket storing 962 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 66, Collisions encontered: 0 Number of items in bucket storing 1805 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 67, Collisions encontered: 0 Number of items in bucket storing 788 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 68, Collisions encontered: 0 Number of items in bucket storing 357 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 69, Collisions encontered: 1 Number of items in bucket storing 1759 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 70, Collisions encontered: 1 Number of items in bucket storing 2329 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 71, Collisions encontered: 0 Number of items in bucket storing 2597 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 72, Collisions encontered: 0 Number of items in bucket storing 2617 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 73, Collisions encontered: 1 Number of items in bucket storing 973 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 74, Collisions encontered: 0 Number of items in bucket storing 45 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 75, Collisions encontered: 0 Number of items in bucket storing 1182 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 76, Collisions encontered: 1 Number of items in bucket storing 2045 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 77, Collisions encontered: 1 Number of items in bucket storing 957 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 78, Collisions encontered: 1 Number of items in bucket storing 453 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 79, Collisions encontered: 2 Number of items in bucket storing 2574 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 80, Collisions encontered: 1 Number of items in bucket storing 2333 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 81, Collisions encontered: 1 Number of items in bucket storing 2369 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 82, Collisions encontered: 1 Number of items in bucket storing 1676 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 83, Collisions encontered: 0 Number of items in bucket storing 2333 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 84, Collisions encontered: 1 Number of items in bucket storing 641 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 85, Collisions encontered: 2 Number of items in bucket storing 2620 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 86, Collisions encontered: 1 Number of items in bucket storing 349 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 87, Collisions encontered: 0 Number of items in bucket storing 226 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 88, Collisions encontered: 2 Number of items in bucket storing 2512 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 89, Collisions encontered: 1 Number of items in bucket storing 2418 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 90, Collisions encontered: 0 Number of items in bucket storing 2526 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 91, Collisions encontered: 1 Number of items in bucket storing 1967 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 92, Collisions encontered: 2 Number of items in bucket storing 1774 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 93, Collisions encontered: 3 Number of items in bucket storing 1684 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 94, Collisions encontered: 0 Number of items in bucket storing 2863 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 95, Collisions encontered: 1 Number of items in bucket storing 506 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 96, Collisions encontered: 2 Number of items in bucket storing 1108 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 97, Collisions encontered: 2 Number of items in bucket storing 2818 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 98, Collisions encontered: 0 Number of items in bucket storing 2639 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 99, Collisions encontered: 1 Number of items in bucket storing 91 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 100, Collisions encontered: 3 Number of items in bucket storing 1075 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 101, Collisions encontered: 0 Number of items in bucket storing 1714 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 102, Collisions encontered: 1 Number of items in bucket storing 664 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 103, Collisions encontered: 4 Number of items in bucket storing 2074 : 5
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 104, Collisions encontered: 0 Number of items in bucket storing 655 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 105, Collisions encontered: 0 Number of items in bucket storing 2902 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 106, Collisions encontered: 2 Number of items in bucket storing 1823 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 107, Collisions encontered: 1 Number of items in bucket storing 951 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 108, Collisions encontered: 0 Number of items in bucket storing 649 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 109, Collisions encontered: 1 Number of items in bucket storing 1188 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 110, Collisions encontered: 1 Number of items in bucket storing 56 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 111, Collisions encontered: 2 Number of items in bucket storing 679 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 112, Collisions encontered: 3 Number of items in bucket storing 352 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 113, Collisions encontered: 1 Number of items in bucket storing 1648 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 114, Collisions encontered: 0 Number of items in bucket storing 634 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 115, Collisions encontered: 1 Number of items in bucket storing 585 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 116, Collisions encontered: 0 Number of items in bucket storing 1737 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 117, Collisions encontered: 0 Number of items in bucket storing 2364 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 118, Collisions encontered: 1 Number of items in bucket storing 2124 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 119, Collisions encontered: 1 Number of items in bucket storing 884 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 120, Collisions encontered: 0 Number of items in bucket storing 1064 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 121, Collisions encontered: 0 Number of items in bucket storing 2663 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 122, Collisions encontered: 0 Number of items in bucket storing 1953 : 1
+Time take for put(k,v): 0
+Time to run for 125 entries is 3....load factor is....1.22
+Now procesesing 150....elements please stand-by
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 1, Collisions encontered: 0 Number of items in bucket storing 1925 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 2, Collisions encontered: 0 Number of items in bucket storing 244 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 3, Collisions encontered: 0 Number of items in bucket storing 1773 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 4, Collisions encontered: 0 Number of items in bucket storing 1757 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 5, Collisions encontered: 0 Number of items in bucket storing 900 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 6, Collisions encontered: 0 Number of items in bucket storing 40 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 7, Collisions encontered: 0 Number of items in bucket storing 2227 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 8, Collisions encontered: 0 Number of items in bucket storing 2069 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 9, Collisions encontered: 0 Number of items in bucket storing 1255 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 10, Collisions encontered: 0 Number of items in bucket storing 2499 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 11, Collisions encontered: 0 Number of items in bucket storing 456 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 12, Collisions encontered: 0 Number of items in bucket storing 669 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 13, Collisions encontered: 0 Number of items in bucket storing 2896 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 14, Collisions encontered: 1 Number of items in bucket storing 185 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 15, Collisions encontered: 0 Number of items in bucket storing 2873 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 16, Collisions encontered: 0 Number of items in bucket storing 2245 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 17, Collisions encontered: 0 Number of items in bucket storing 2955 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 18, Collisions encontered: 1 Number of items in bucket storing 2302 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 19, Collisions encontered: 1 Number of items in bucket storing 1514 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 20, Collisions encontered: 0 Number of items in bucket storing 1422 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 21, Collisions encontered: 0 Number of items in bucket storing 1336 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 22, Collisions encontered: 1 Number of items in bucket storing 1761 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 23, Collisions encontered: 0 Number of items in bucket storing 1396 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 24, Collisions encontered: 0 Number of items in bucket storing 588 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 25, Collisions encontered: 2 Number of items in bucket storing 1206 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 26, Collisions encontered: 0 Number of items in bucket storing 187 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 27, Collisions encontered: 1 Number of items in bucket storing 69 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 28, Collisions encontered: 0 Number of items in bucket storing 2934 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 29, Collisions encontered: 0 Number of items in bucket storing 2968 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 30, Collisions encontered: 0 Number of items in bucket storing 423 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 31, Collisions encontered: 0 Number of items in bucket storing 901 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 32, Collisions encontered: 0 Number of items in bucket storing 2498 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 33, Collisions encontered: 1 Number of items in bucket storing 145 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 34, Collisions encontered: 0 Number of items in bucket storing 2993 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 35, Collisions encontered: 0 Number of items in bucket storing 373 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 36, Collisions encontered: 1 Number of items in bucket storing 843 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 37, Collisions encontered: 0 Number of items in bucket storing 1113 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 38, Collisions encontered: 0 Number of items in bucket storing 2401 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 39, Collisions encontered: 0 Number of items in bucket storing 1903 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 40, Collisions encontered: 2 Number of items in bucket storing 821 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 41, Collisions encontered: 0 Number of items in bucket storing 871 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 42, Collisions encontered: 0 Number of items in bucket storing 1639 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 43, Collisions encontered: 0 Number of items in bucket storing 2971 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 44, Collisions encontered: 1 Number of items in bucket storing 437 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 45, Collisions encontered: 0 Number of items in bucket storing 966 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 46, Collisions encontered: 0 Number of items in bucket storing 1854 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 47, Collisions encontered: 0 Number of items in bucket storing 1630 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 48, Collisions encontered: 1 Number of items in bucket storing 299 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 49, Collisions encontered: 1 Number of items in bucket storing 1730 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 50, Collisions encontered: 0 Number of items in bucket storing 186 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 51, Collisions encontered: 0 Number of items in bucket storing 650 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 52, Collisions encontered: 0 Number of items in bucket storing 1905 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 53, Collisions encontered: 0 Number of items in bucket storing 2930 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 54, Collisions encontered: 0 Number of items in bucket storing 2572 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 55, Collisions encontered: 0 Number of items in bucket storing 810 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 56, Collisions encontered: 0 Number of items in bucket storing 2722 : 1
+Time take for put(k,v): 1
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 57, Collisions encontered: 0 Number of items in bucket storing 2821 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 58, Collisions encontered: 0 Number of items in bucket storing 1090 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 59, Collisions encontered: 0 Number of items in bucket storing 2948 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 60, Collisions encontered: 0 Number of items in bucket storing 614 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 61, Collisions encontered: 0 Number of items in bucket storing 2215 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 62, Collisions encontered: 1 Number of items in bucket storing 1337 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 63, Collisions encontered: 0 Number of items in bucket storing 1303 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 64, Collisions encontered: 0 Number of items in bucket storing 1146 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 65, Collisions encontered: 0 Number of items in bucket storing 962 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 66, Collisions encontered: 0 Number of items in bucket storing 1805 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 67, Collisions encontered: 0 Number of items in bucket storing 788 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 68, Collisions encontered: 0 Number of items in bucket storing 357 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 69, Collisions encontered: 1 Number of items in bucket storing 1759 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 70, Collisions encontered: 1 Number of items in bucket storing 2329 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 71, Collisions encontered: 0 Number of items in bucket storing 2597 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 72, Collisions encontered: 0 Number of items in bucket storing 2617 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 73, Collisions encontered: 1 Number of items in bucket storing 973 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 74, Collisions encontered: 0 Number of items in bucket storing 45 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 75, Collisions encontered: 0 Number of items in bucket storing 1182 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 76, Collisions encontered: 1 Number of items in bucket storing 2045 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 77, Collisions encontered: 1 Number of items in bucket storing 957 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 78, Collisions encontered: 1 Number of items in bucket storing 453 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 79, Collisions encontered: 2 Number of items in bucket storing 2574 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 80, Collisions encontered: 1 Number of items in bucket storing 2333 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 81, Collisions encontered: 1 Number of items in bucket storing 2369 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 82, Collisions encontered: 1 Number of items in bucket storing 1676 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 83, Collisions encontered: 0 Number of items in bucket storing 2333 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 84, Collisions encontered: 1 Number of items in bucket storing 641 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 85, Collisions encontered: 2 Number of items in bucket storing 2620 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 86, Collisions encontered: 1 Number of items in bucket storing 349 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 87, Collisions encontered: 0 Number of items in bucket storing 226 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 88, Collisions encontered: 2 Number of items in bucket storing 2512 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 89, Collisions encontered: 1 Number of items in bucket storing 2418 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 90, Collisions encontered: 0 Number of items in bucket storing 2526 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 91, Collisions encontered: 1 Number of items in bucket storing 1967 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 92, Collisions encontered: 2 Number of items in bucket storing 1774 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 93, Collisions encontered: 3 Number of items in bucket storing 1684 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 94, Collisions encontered: 0 Number of items in bucket storing 2863 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 95, Collisions encontered: 1 Number of items in bucket storing 506 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 96, Collisions encontered: 2 Number of items in bucket storing 1108 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 97, Collisions encontered: 2 Number of items in bucket storing 2818 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 98, Collisions encontered: 0 Number of items in bucket storing 2639 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 99, Collisions encontered: 1 Number of items in bucket storing 91 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 100, Collisions encontered: 3 Number of items in bucket storing 1075 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 101, Collisions encontered: 0 Number of items in bucket storing 1714 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 102, Collisions encontered: 1 Number of items in bucket storing 664 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 103, Collisions encontered: 4 Number of items in bucket storing 2074 : 5
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 104, Collisions encontered: 0 Number of items in bucket storing 655 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 105, Collisions encontered: 0 Number of items in bucket storing 2902 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 106, Collisions encontered: 2 Number of items in bucket storing 1823 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 107, Collisions encontered: 1 Number of items in bucket storing 951 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 108, Collisions encontered: 0 Number of items in bucket storing 649 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 109, Collisions encontered: 1 Number of items in bucket storing 1188 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 110, Collisions encontered: 1 Number of items in bucket storing 56 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 111, Collisions encontered: 2 Number of items in bucket storing 679 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 112, Collisions encontered: 3 Number of items in bucket storing 352 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 113, Collisions encontered: 1 Number of items in bucket storing 1648 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 114, Collisions encontered: 0 Number of items in bucket storing 634 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 115, Collisions encontered: 1 Number of items in bucket storing 585 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 116, Collisions encontered: 0 Number of items in bucket storing 1737 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 117, Collisions encontered: 0 Number of items in bucket storing 2364 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 118, Collisions encontered: 1 Number of items in bucket storing 2124 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 119, Collisions encontered: 1 Number of items in bucket storing 884 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 120, Collisions encontered: 0 Number of items in bucket storing 1064 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 121, Collisions encontered: 0 Number of items in bucket storing 2663 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 122, Collisions encontered: 0 Number of items in bucket storing 1953 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 123, Collisions encontered: 1 Number of items in bucket storing 333 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 124, Collisions encontered: 1 Number of items in bucket storing 1406 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 125, Collisions encontered: 3 Number of items in bucket storing 41 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 126, Collisions encontered: 2 Number of items in bucket storing 654 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 127, Collisions encontered: 2 Number of items in bucket storing 120 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 128, Collisions encontered: 0 Number of items in bucket storing 2050 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 129, Collisions encontered: 1 Number of items in bucket storing 2970 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 130, Collisions encontered: 2 Number of items in bucket storing 1905 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 131, Collisions encontered: 0 Number of items in bucket storing 932 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 132, Collisions encontered: 0 Number of items in bucket storing 266 : 1
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 133, Collisions encontered: 1 Number of items in bucket storing 2824 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 134, Collisions encontered: 1 Number of items in bucket storing 2265 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 135, Collisions encontered: 2 Number of items in bucket storing 2658 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 136, Collisions encontered: 1 Number of items in bucket storing 1257 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 137, Collisions encontered: 2 Number of items in bucket storing 1183 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 138, Collisions encontered: 1 Number of items in bucket storing 402 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 139, Collisions encontered: 1 Number of items in bucket storing 580 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 140, Collisions encontered: 2 Number of items in bucket storing 1680 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 141, Collisions encontered: 2 Number of items in bucket storing 2616 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 142, Collisions encontered: 1 Number of items in bucket storing 1880 : 2
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 143, Collisions encontered: 2 Number of items in bucket storing 952 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 144, Collisions encontered: 2 Number of items in bucket storing 2215 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 145, Collisions encontered: 2 Number of items in bucket storing 1037 : 3
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 146, Collisions encontered: 3 Number of items in bucket storing 1560 : 4
+Time take for put(k,v): 0
+put(k,V):Element inserted, Size of the table 100, Number of elements in the table 147, Collisions encontered: 0 Number of items in bucket storing 107 : 1
+Time take for put(k,v): 0
+Time to run for 150 entries is 1....load factor is....1.47
+
+
+pJjASyMa
+Process finished with exit code 0
